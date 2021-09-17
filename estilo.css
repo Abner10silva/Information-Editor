@@ -1,0 +1,72 @@
+html{
+background:url(../img/Galaxy2.jpg) ;
+background-size: cover;
+
+}
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+
+.bloco{ 
+background-color:slateblue ;
+border-color: #CCC #999 #CCC #999;
+border: 1px solid #000;
+margin-top: 20px;
+padding: 10px;
+}
+
+.bloco img{
+border: 1px solid #000;
+float: left;
+margin: 20px 20px 0 0;
+padding: cover;
+}
+
+
+.clear{
+    clear: both;
+    }
+    
+    
+
+@import url(https://fonts.google.com/specimen/Allison?query=Allison#standart-styles);
+@font-face {
+font-family: 'Rampart One', cursive;
+src: url("../fonts/Rampart_One/RampartOne-Regular.ttf");}
+
+.bloco a{
+color:#000;
+font-weight: bold;
+text-decoration:none;
+}
+
+.titulo{
+    background-color:slateblue;
+    padding: 10px;
+    }
+.bloco a:hover{
+color: #4bf1fa;
+text-decoration: underline;
+background-color: cadetblue;
+padding: 5px;
+}
+
+.bloco p {
+font-size: 16px;
+text-align: justify;
+line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
